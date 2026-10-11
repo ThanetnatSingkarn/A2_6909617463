@@ -43,3 +43,18 @@ footer {
     padding: 15px;
     color: #777777;
 }
+
+.evidence-img {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    border: 1px solid #cccccc;
+    padding: 4px;
+    background-color: white;
+}
+
+.profile-img {
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+}
